@@ -1,0 +1,28 @@
+#mainBody {
+  text-align: center;
+  justify-items: center;
+  padding: 2% 15%;
+  margin-top: 20px;
+}
+
+#footer {
+  text-align: center;
+  justify-items: center;
+  padding: 0 15%;
+}
+
+#intro {
+  background-color: #d6efed;
+}
+
+.introButtom {
+  margin-top: 5rem;
+}
+
+.introText {
+  padding: 5%;
+}
+
+.listOfPlace {
+  list-style-type: none;
+}

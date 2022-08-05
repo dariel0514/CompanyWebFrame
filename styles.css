@@ -1,18 +1,38 @@
+body {
+}
+
 #mainBody {
   text-align: center;
   justify-items: center;
-  padding: 2% 15%;
+  padding: 0 15%;
   margin-top: 20px;
+}
+
+#intro {
+  background-color: #d6efed;
+}
+
+#areas {
+  padding: 5%;
+}
+
+#whoWeAre {
+  margin: 5%;
+}
+
+#services {
 }
 
 #footer {
   text-align: center;
   justify-items: center;
-  padding: 0 15%;
+  padding: 10% 15%;
 }
 
-#intro {
-  background-color: #d6efed;
+h2 {
+  line-height: 4rem;
+  font-size: 3rem;
+  padding: 5%;
 }
 
 .introButtom {
@@ -25,4 +45,8 @@
 
 .listOfPlace {
   list-style-type: none;
+}
+
+.card {
+  padding: 5%;
 }
